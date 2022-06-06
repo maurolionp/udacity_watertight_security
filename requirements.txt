@@ -1,0 +1,15 @@
+certifi==2018.11.29
+chardet==3.0.4
+decorator==4.3
+idna==2.8
+requests==2.21
+simplejson==3.16
+urllib3==1.24.1
+yara-python
+pymongo~=3.11.0
+requests
+yara
+
+pip~=21.0.1
+wheel~=0.36.2
+setuptools~=52.0.0
